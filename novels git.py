@@ -241,6 +241,8 @@ for i in range(len(gpos2.columns)):
     output.iloc[i,range(4,(outs*3)+4)] = holder
     
 #%%check matches
+match = []
+notmatch = []
 for i in range(len(output)):
     for j in range(len(output)):
         if i !=j:
