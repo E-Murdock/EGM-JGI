@@ -36,11 +36,10 @@ df_files
 
 #%%features of interest
 os.chdir("c:/users/mudoe/desktop/hetexp working/crunch")
-#df_standards2 = pd.read_csv('c:/users/mudoe/desktop/hetexp working/EGM HSL.csv')
 ###
 ### consider whether or not feeding a crunched or a vv2 makes more sense
 ###
-df_standards = pd.read_csv('6-21crunchwithstrangeunsat.csv')
+df_standards = pd.read_csv('processed query.csv')
 df_standards = df_standards[["rowid","_dyn_#rt","_dyn_#precmz"]] ##this changes depending on input
 nastd = copy.deepcopy(df_standards)
 nastd["_dyn_#precmz"] = nastd["_dyn_#precmz"]-H+Na
