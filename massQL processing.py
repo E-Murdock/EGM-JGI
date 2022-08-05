@@ -20,7 +20,7 @@ H = 1.007276
 os.chdir("c:/users/mudoe/desktop/hetexp working/metatlas-main")
 from metatlas.io import feature_tools as ft
 os.chdir("c:/users/mudoe/desktop/hetexp working")
-qu = pd.read_csv("Aaron Query.csv")
+qu = pd.read_csv("massQL Query.csv")
 qu = qu.where(qu["_dyn_#rt"] < 10)
 qu = qu.where(qu["_dyn_#rt"] > .7)
 qu = qu.dropna(subset=["rowid"])
