@@ -36,9 +36,9 @@ setwd("c:/users/mudoe/desktop/hetexp working")
 df = read.csv("connectors.csv")
 df[,1] = NULL
 seq = read.csv("sequences.csv")
-gpos = read.csv("c:/users/mudoe/desktop/forfigure.csv", header = FALSE)
+gpos = read.csv("c:/users/mudoe/desktop/full desktop/orderedforfigure.csv", header = FALSE)
 ###not dynamic, must count number of hydrogenated feature rows###
-gpos = gpos[1:18,]
+gpos = gpos[1:22,]
 colnames(gpos) = gpos[1,]
 gpos=gpos[-1,]
 rownames(gpos) = gpos[,1]
@@ -49,10 +49,10 @@ relg = gpos[,1:366]
 
 library("ape")
 library("phytools")
-library("ggtree")
+#library("ggtree")
 setwd("c:/users/mudoe/desktop/hetexp working/trees")
 tre = read.tree("clap dendro.tre")
-tre2 = read.tree("clustal2.tre")
+tre2 = read.tree("c:/users/mudoe/desktop/full desktop/matchplasmid.dnd.tre")
 order = tre2[[4]]
 filler <- matrix(nrow=nrow(relg),
                  ncol=2*length(order))
@@ -83,16 +83,15 @@ rownames(filler) = rownames(relg)
 library(ggplot2)
 library(gplots)
 library(reshape)
-col <- colorRampPalette(c("azure3","cyan","darkmagenta"))(30)
+col <- colorRampPalette(c("royalblue4","royalblue4","steelblue1","beige","red2","brown"))(100)
 heatmap.2(as.matrix(filler), Rowv = FALSE, Colv = FALSE, density.info = "none", col = col,trace = "none", margins = c(7, 15), labCol = NA )
 
-png("c:/users/mudoe/desktop/filename.png",width=2000,height=800)
-heatmap.2(as.matrix(filler), Rowv = FALSE, Colv = FALSE, density.info = "none", col = col,trace = "none", margins = c(2, 4.5),labCol = NA, keysize = 1.2)
+png("c:/users/mudoe/desktop/guy3.png",width=2000,height=800)
+heatmap.2(as.matrix(filler), Rowv = FALSE, Colv = FALSE, density.info = "none", col = col,trace = "none", margins = c(2.2, 4.8),labCol = NA, keysize = 1)
 dev.off()
 plot(tre2)
 tre2
 #dendrogram and heatmap must be combined in another program
-
 
 ####mass spec fig
 data = read.csv("c:/users/mudoe/desktop/chromat data.csv")
