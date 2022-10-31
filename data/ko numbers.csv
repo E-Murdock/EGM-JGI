@@ -1,0 +1,184 @@
+Plasmid,KO,definition,score,KO2,score2
+p001,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",57,NA,NA
+p002,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",125,NA,NA
+p005,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",77,NA,NA
+p006,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",112,NA,NA
+p003,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",111,NA,NA
+p004,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",112,NA,NA
+p007,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",123,NA,NA
+p008,NA,NA,18,K13061,15
+p010,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",122,NA,NA
+p013,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",36,NA,NA
+p012,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],93,NA,NA
+p011,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",74,NA,NA
+p009,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",90,NA,NA
+p014,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",111,NA,NA
+p015,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",111,NA,NA
+p016,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",114,NA,NA
+p018,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],75,NA,NA
+p017,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],73,NA,NA
+p019,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],112,NA,NA
+p020,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",87,NA,NA
+p023,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],124,NA,NA
+p025,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],125,NA,NA
+p022,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",83,NA,NA
+p021,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],170,NA,NA
+p024,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],109,NA,NA
+p026,NA,NA,47,K13061,27
+p029,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",104,NA,NA
+p028,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",103,NA,NA
+p027,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],192,NA,NA
+p030,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",84,NA,NA
+p031,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",114,NA,NA
+p032,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",118,NA,NA
+p037,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",80,NA,NA
+p036,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",77,NA,NA
+p035,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],114,NA,NA
+p033,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",65,NA,NA
+p034,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],102,NA,NA
+p038,NA,NA,118,NA,NA
+p039,NA,NA,125,NA,NA
+p040,NA,NA,150,NA,NA
+p041,NA,NA,154,NA,NA
+p042,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",94,NA,NA
+p045,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",77,NA,NA
+p044,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",189,NA,NA
+p043,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],112,NA,NA
+p050,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",64,NA,NA
+p049,NA,NA,121,NA,NA
+p048,NA,NA,114,NA,NA
+p046,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",125,NA,NA
+p047,K20249,raiI; acyl homoserine lactone synthase [EC:2.3.1.184],33,K22968,10
+p051,NA,NA,111,NA,NA
+p053,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",33,NA,NA
+p054,NA,NA,82,NA,NA
+p052,NA,NA,128,NA,NA
+p057,NA,NA,101,NA,NA
+p058,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",57,NA,NA
+p056,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",59,NA,NA
+p055,NA,NA,130,NA,NA
+p061,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",120,NA,NA
+p074,NA,NA,11,K18096,7
+p073,NA,NA,8,K13061,8
+p072,NA,NA,NA,NA,NA
+p065,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",107,NA,NA
+p063,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",129,NA,NA
+p067,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",115,NA,NA
+p059,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",133,NA,NA
+p066,NA,NA,102,NA,NA
+p068,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",176,NA,NA
+p060,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",133,NA,NA
+p069,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",125,NA,NA
+p062,NA,NA,14,K13061,13
+p070,NA,NA,70,NA,NA
+p071,NA,NA,70,NA,NA
+p075,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",77,NA,NA
+p064,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",158,NA,NA
+p080,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",118,NA,NA
+p081,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",122,NA,NA
+p077,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",135,NA,NA
+p076,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",134,NA,NA
+p084,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",118,NA,NA
+p085,NA,NA,115,NA,NA
+p078,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",157,NA,NA
+p079,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",130,NA,NA
+p082,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",124,NA,NA
+p083,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",117,NA,NA
+p089,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",93,NA,NA
+p090,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",96,NA,NA
+p086,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",17,K13060,8
+p087,NA,NA,59,NA,NA
+p094,K20248,cinI; acyl homoserine lactone synthase [EC:2.3.1.184],68,NA,NA
+p091,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",33,NA,NA
+p093,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",29,K20250,3
+p092,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",37,NA,NA
+p088,NA,NA,88,NA,NA
+p098,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],106,NA,NA
+p097,K20248,cinI; acyl homoserine lactone synthase [EC:2.3.1.184],70,NA,NA
+p096,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",113,NA,NA
+p095,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",102,NA,NA
+p106,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",142,NA,NA
+p108,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",159,NA,NA
+p101,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",72,NA,NA
+p103,K20249,raiI; acyl homoserine lactone synthase [EC:2.3.1.184],188,NA,NA
+p110,NA,NA,112,NA,NA
+p109,NA,NA,107,NA,NA
+p100,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",96,NA,NA
+p107,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",149,NA,NA
+p102,NA,NA,108,NA,NA
+p104,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",150,NA,NA
+p105,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",148,NA,NA
+p099,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",174,NA,NA
+p116,NA,NA,32,K13061,25
+p115,K20249,raiI; acyl homoserine lactone synthase [EC:2.3.1.184],89,NA,NA
+p114,NA,NA,NA,NA,NA
+p111,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",117,NA,NA
+p113,K22956,"expI, esaI; acyl homoserine lactone synthase [EC:2.3.1.184]",172,NA,NA
+p112,K22956,"expI, esaI; acyl homoserine lactone synthase [EC:2.3.1.184]",182,NA,NA
+p120,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",86,NA,NA
+p119,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",85,NA,NA
+p118,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",86,NA,NA
+p121,K22968,"sinI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",186,NA,NA
+p124,NA,NA,NA,NA,NA
+p123,NA,NA,NA,NA,NA
+p117,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",18,K13060,7
+p122,K13060,lasI; acyl homoserine lactone synthase [EC:2.3.1.184],59,NA,NA
+p126,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",107,NA,NA
+p125,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",104,NA,NA
+p128,K22968,"sinI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",166,NA,NA
+p129,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",86,NA,NA
+p132,NA,NA,NA,NA,NA
+p131,NA,NA,NA,NA,NA
+p130,K20249,raiI; acyl homoserine lactone synthase [EC:2.3.1.184],38,K22968,10
+p133,NA,NA,92,NA,NA
+p127,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",92,NA,NA
+p136,NA,NA,88,NA,NA
+p134,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",77,NA,NA
+p135,NA,NA,NA,NA,NA
+p137,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",47,NA,NA
+p139,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",55,NA,NA
+p138,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",86,NA,NA
+p140,K22968,"sinI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",189,NA,NA
+p141,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",189,NA,NA
+p143,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",75,NA,NA
+p144,NA,NA,81,NA,NA
+p142,K20248,cinI; acyl homoserine lactone synthase [EC:2.3.1.184],128,NA,NA
+p146,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",69,NA,NA
+p145,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",121,NA,NA
+p148,NA,NA,NA,NA,NA
+p147,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",74,NA,NA
+p151,K20248,cinI; acyl homoserine lactone synthase [EC:2.3.1.184],199,NA,NA
+p149,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",66,NA,NA
+p150,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",76,NA,NA
+p152,K20248,cinI; acyl homoserine lactone synthase [EC:2.3.1.184],156,NA,NA
+p154,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",74,NA,NA
+p153,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",207,NA,NA
+p155,NA,NA,NA,NA,NA
+p156,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",28,NA,NA
+p157,K22956,"expI, esaI; acyl homoserine lactone synthase [EC:2.3.1.184]",132,NA,NA
+p159,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",61,NA,NA
+p158,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",112,NA,NA
+p160,K22956,"expI, esaI; acyl homoserine lactone synthase [EC:2.3.1.184]",124,NA,NA
+p161,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",101,NA,NA
+p162,NA,NA,NA,NA,NA
+p163,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",67,NA,NA
+p164,K22957,cviI; acyl homoserine lactone synthase [EC:2.3.1.184],10,K22955,8
+p166,K22955,"traI, avsI; acyl homoserine lactone synthase [EC:2.3.1.184]",83,NA,NA
+p165,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",57,NA,NA
+p167,NA,NA,118,NA,NA
+p168,NA,NA,30,NA,NA
+p169,K22957,cviI; acyl homoserine lactone synthase [EC:2.3.1.184],10,K22955,8
+p170,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",11,NA,NA
+p172,NA,NA,NA,NA,NA
+p171,NA,NA,19,NA,NA
+p173,NA,NA,NA,NA,NA
+p174,NA,NA,13,K22955,9
+p175,NA,NA,NA,NA,NA
+p176,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",12,NA,NA
+p177,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",16,NA,NA
+p178,K18096,"bjaI, rpaI, braI, rhiI; acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]",17,NA,NA
+p179,K20248,cinI; acyl homoserine lactone synthase [EC:2.3.1.184],76,NA,NA
+p180,NA,NA,NA,NA,NA
+p181,K22956,"expI, esaI; acyl homoserine lactone synthase [EC:2.3.1.184]",104,NA,NA
+p182,K20248,cinI; acyl homoserine lactone synthase [EC:2.3.1.184],91,NA,NA
+p183,K13061,"rhlI, phzI, solI, cepI, tofI; acyl homoserine lactone synthase [EC:2.3.1.184]",77,NA,NA
