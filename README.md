@@ -11,4 +11,4 @@ figure.R is multiple blocks to produce figures for this project. One creates a f
 
 waters processing.py searches an LC/MS run that has been processed in MZmine using the methods described here - https://pubs.acs.org/doi/10.1021/acschembio.1c00329 - to search for masses and 102 fragments that correspond to standard HSLs. This can take two inputs, a run with a standard cone voltage for parent masses and a run with an increased cone voltage to find 102 fragments. The blocks are entirely separate, however, so it is possible to only do one. However, providing both will likely give better insights. This does also require a .csv of standard HSL masses and retention times, which will vary by machine.
 
-data folder contains a massQL output, a processed massQL output from massQL processing.py, and an unprocessed output from novels git.py
+data folder contains a massQL output, a processed massQL output from massQL processing.py, and an unprocessed output from novels git.py. It also contains the user and locus .csv files that connect JGI runs/plamid numbers to internal construct names, gene locus tags, and organisms of origin.
