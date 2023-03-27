@@ -38,6 +38,7 @@ import copy
 import matplotlib
 Na = 22.989218
 H = 1.007276
+###note that this script determines the statistics when plasmids that did not grow properly are removed. This was determined by OD of E. coli carrying said plasmids.
 output = pd.read_csv("c:/users/mudoe/desktop/hetexp working/fullql/fresh run/bad plas removed.csv")
 output = output.drop("Unnamed: 0",axis=1)
 
