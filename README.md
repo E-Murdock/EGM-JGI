@@ -1,7 +1,7 @@
 # EGM-JGI
 EGM JGI scripts (R and Python)
 
-novels git.py scans through individual h5 files to find features
+MS2 fragmentation search.py scans through individual h5 files to find features
 
 comb feature table.py checks the given feature table
 
